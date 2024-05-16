@@ -14,10 +14,10 @@
  
  ### 👨‍💻 Talking about Personal Stuffs:
 
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer.gif" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithm(c++);
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/message.gif" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: mohamed.sherif.tivo@gmail.com;
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/developer.gif" width="21" />&nbsp;&nbsp; I’m currently working on something cool
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/lightning.gif" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Node.js
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/message.gif" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
+- <img src="https://github.com/GauravKesh/GauravKesh/blob/main/img/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: mohamed.sherif.tivo@gmail.com
 
 
 ### ⚒️ Technologies & Tools:
@@ -46,7 +46,7 @@
 
 ### 📡 My Social:
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/gaurav-kesh-roushan-100b631aa?original_referer=https%3A%2F%2Fwww.google.com%2F)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sherif-15abab262/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/gkrcoder_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/gkrcoder)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white)](https://t.me/)
