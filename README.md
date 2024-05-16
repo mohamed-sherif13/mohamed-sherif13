@@ -47,7 +47,7 @@
 ### 📡 My Social:
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sherif-15abab262/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/gkrcoder_)
+[![Facebook Badge](https://img.shields.io/badge/-facebook-00acee?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/Mohamed.Tivo)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/gkrcoder)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=plastic&logo=Telegram&logoColor=white)](https://t.me/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=plastic&logo=Discord&logoColor=white)](https://discord.com/G_hack#5481)
