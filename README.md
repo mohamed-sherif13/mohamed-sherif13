@@ -48,7 +48,7 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sherif-15abab262/)
 [![Facebook Badge](https://img.shields.io/badge/-facebook-00acee?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/Mohamed.Tivo)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/gkrcoder)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/mohamed_tivo)
 
 
 
